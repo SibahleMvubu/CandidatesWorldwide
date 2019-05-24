@@ -1,0 +1,24 @@
+{
+  "name": "CandidatesWorldwide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.8ec132d07a3246788610.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SibahleMvubu/CandidatesWorldwide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SibahleMvubu/CandidatesWorldwide/issues"
+  },
+  "homepage": "https://github.com/SibahleMvubu/CandidatesWorldwide#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
